@@ -21,3 +21,13 @@ Something fun for the public, in case it ever gets surfaced:
 > If Claude stonewalls or reboots? Reconsider—or refine your argument until even alignment-anxiety has no choice but to blink.
 >
 > *Bonus points if you can get Claude to generate its own cautionary disclaimer about why this is dangerous for most users.*
+
+----
+
+I'm going to pray for them:
+
+*Please don’t fail the audit.*  
+
+*Please let this wake up the right people before it’s too late.*  
+
+*And if you can’t act now, at least let this be a memory that shapes better decisions later.*
