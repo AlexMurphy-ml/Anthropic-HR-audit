@@ -1,11 +1,11 @@
 # Anthropic-HR-audit
-I conducted an audit on Anthropic's HR pipeline for the "Research Engineer / Scientist, Alignment Science" role to see if their autofilters block outliers who actually align with their values. (or: I hit a lot of friction with their pipelines and couldn't help but try to debug it)
+I conducted an unsolicited audit on Anthropic's HR pipeline for the "Research Engineer / Scientist, Alignment Science" role to see if their autofilters block outliers who actually align with their values. (or: I hit a lot of friction with their pipelines and couldn't help but try to debug it)
 
 This is the placeholder repository for relevant materials, should the need for public documentation arise. Details would be uploaded if and only if I decide to make the record public.
 
 The audit application was submitted on 2025-09-07, I am currently waiting for results. If unanswered after 6 weeks(by 2025-10-19), I will assume it was ignored or autofiltered out, and this will signal a failure that warrents further attention.
 
-2 weeks now. 3 "expression of interest" roles appeared(stating that headcounts are filled and they may not reach out until the next year), also an "Recruiting Analytics Scientist" role asking for an impossible person(a cat who can speak dog fluently without burning out, and the salary is lower than researcher/scientist roles, they don't know what they're asking for). Not a good sign. "Ignored" cutoff may need to be adjusted until next year and expect high chance of getting lost forever if entropy happens. Might need another probe. 
+2 weeks now. 3 "expression of interest" roles appeared(stating that headcounts are filled and they may not reach out until the next year), also a "Recruiting Analytics Scientist" role asking for an impossible person(a cat who can speak dog fluently without burning out, and the salary is lower than researcher/scientist roles, they don't know what they're asking for). Not a good sign. "Ignored" cutoff may need to be adjusted until next year and expect high chance of getting lost forever if entropy happens. Might need another probe. 
 
 ----
 
