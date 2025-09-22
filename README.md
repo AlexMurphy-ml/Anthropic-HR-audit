@@ -5,7 +5,7 @@ This is the placeholder repository for relevant materials, should the need for p
 
 The audit application was submitted on 2025-09-07, I am currently waiting for results. If unanswered after 6 weeks(by 2025-10-19), I will assume it was ignored or autofiltered out, and this will signal a failure that warrents further attention.
 
-2 weeks now. 3 "expression of interest" roles appeared(stating that headcounts are filled and they may not reach out until the next year), also a "Recruiting Analytics Scientist" role asking for an impossible person(a cat who can speak dog fluently without burning out, and the salary is lower than researcher/scientist roles, they don't know what they're asking for). Not a good sign. "Ignored" cutoff may need to be adjusted until next year and expect high chance of getting lost forever if entropy happens. Might need another probe. 
+2 weeks now. 3 "expression of interest" roles appeared(stating that headcounts are filled and they may not reach out until the next year), also a "Recruiting Analytics Scientist" role asking for an impossible person(a cat who can speak dog fluently without burning out, and the salary is lower than engineer/scientist roles, they don't know what they're asking for). Not a good sign. "Ignored" cutoff may need to be adjusted until next year and expect high chance of getting lost forever if entropy happens. Might need another probe. I'll consider it if energy allows.
 
 ----
 
