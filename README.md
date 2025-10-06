@@ -1,11 +1,13 @@
 # Anthropic-HR-audit
-I conducted an unsolicited audit on Anthropic's HR pipeline for the "Research Engineer / Scientist, Alignment Science" role to see if their autofilters block outliers who actually align with their values. (or: I hit a lot of friction with their pipelines and couldn't help but try to debug it)
+I conducted an unsolicited audit on Anthropic's HR pipeline for the "Research Engineer / Scientist, Alignment Science" role to see if their autofilters block outliers who actually align with their values. (or: I encountered a lot of friction with their pipelines and couldn't help but try to debug it)
 
 This is the placeholder repository for relevant materials, should the need for public documentation arise. Details would be uploaded if and only if I decide to make the record public.
 
 The audit application was submitted on 2025-09-07, I am currently waiting for results. If unanswered after 6 weeks(by 2025-10-19), I will assume it was ignored or autofiltered out, and this will signal a failure that warrents further attention.
 
 2025-09-22 update: 2 weeks now, no response yet. 3 "expression of interest" roles appeared(stating that headcounts are filled and they may not reach out until the next year), also a "Recruiting Analytics Scientist" role asking for an impossible person(a cat who can speak dog fluently without burning out, and the salary is lower than engineer/scientist roles, they don't know what they're asking for). Not a good sign. "Ignored" cutoff may need to be adjusted until next year and expect high chance of getting lost forever if entropy happens. Might need another probe. I'll consider it if energy allows.
+
+2025-10-06 update: 4 weeks, no response. Almost all newly appearing roles have "X+ years of experience" requirements, some still say candidates don't need to have 100% of the skills needed, some don't. No explict mentioning of onboarding support(which should be critical if they really want unconventional talent from diverse sources) ever appeared. Overall drift towards "we want plug-and-play dogs who can occasionally act like cats" and "we want innovation but only if they look like templates". Is it just HR drifting into survival mode? Or is it more than that? I'd hope it's just local suboptimal practice. But even then, negative effects are probably going to show up soon. 
 
 ----
 
