@@ -13,7 +13,7 @@ The audit application was submitted on 2025-09-07, I am currently waiting for re
 
 # Animal metaphors
 
-Breif explanation about the animal archetypes I referenced earlier:
+Brief explanation about the animal archetypes I referenced earlier:
 
 - **Dogs:**  
   - Friendly, loyal, thrive on routine and hierarchy.
