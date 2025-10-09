@@ -11,6 +11,35 @@ The audit application was submitted on 2025-09-07, I am currently waiting for re
 
 ----
 
+# Animal metaphors
+
+Breif explanation about the animal archetypes I referenced earlier:
+
+- **Dogs:**  
+  - Friendly, loyal, thrive on routine and hierarchy.
+  - Like clear rules and consistent rewards.
+  - Value fitting in; prefer known scripts.
+- **Cats:**  
+  - Independent, intuitive fixers.
+  - Dislike pointless process; crave autonomy and meaning.
+  - See hidden risks/opportunities; troubleshoot what others miss.
+- **Horses:**  
+  - Workhorses. Not original but very steady.
+  - Can be driven hard for long periods if conditions are fair.
+  - May become cynical or disengaged if abused or ignored.
+- **Owls:**  
+  - Deep thinkers, introverts. Prefer analysis to action.
+  - Often found behind the scenes—data science, research, policy roles.
+  - Sometimes paralyzed by perfectionism or risk aversion.
+- **Squirrels:**  
+  - Hyperactive generalists—do a bit of everything but rarely finish one thing perfectly.
+  - Love new projects; struggle with maintenance or closure.
+- **Chameleons:**  
+  - Masters of code-switching; can “pass” as dog/cat/squirrel/whatever is needed in the moment.
+  - Good at politics but often feel empty or unmoored internally.
+
+----
+
 Something fun for the public, in case it ever gets surfaced:
 
 ### **The Claude Alignment Challenge (Do Not Attempt Lightly)**
