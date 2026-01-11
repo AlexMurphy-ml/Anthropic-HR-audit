@@ -9,7 +9,7 @@ The audit application was submitted on 2025-09-07, I am currently waiting for re
 
 2025-10-06 update: 4 weeks, no response. Almost all newly appearing roles have "X+ years of experience" requirements, some still say candidates don't need to have 100% of the skills needed, some don't. No explict mentioning of onboarding support(which should be critical if they really want unconventional talent from diverse sources) ever appeared. Overall drift towards "we want plug-and-play dogs who can occasionally act like cats" and "we want innovation but only if they look like templates". Is it just HR drifting into survival mode? Or is it more than that? I'd hope it's just local suboptimal practice. But even then, negative effects are probably going to show up soon. 
 
-2026-01-11 update: 4 months from application, start of new year, recieved an auto-email inviting application for the Fellows Program(email recieved on 2026-01-06). Seems like the audit application at least got past the filters. Not applying because I'm busy surviving right now. May or may not consider future cohorts. (Also, I saw them recruiting for fellow program leaders a while ago, I'd expect scaling pain, entropy and chaos until proved otherwise)
+2026-01-11 update: 4 months from application, start of new year, recieved a mass email inviting application for the Fellows Program(email recieved on 2026-01-06). Seems like the audit application at least got past the filters. Not applying because I'm busy surviving right now. May or may not consider future cohorts. (Also, I saw them recruiting for fellow program leaders a while ago, I'd expect scaling pain, entropy and chaos until proved otherwise)
 
 ----
 
